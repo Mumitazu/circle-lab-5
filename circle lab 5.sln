@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "circle lab 5", "circle lab 5.csproj", "{650500C6-6D55-4897-BCD7-175390017819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650500C6-6D55-4897-BCD7-175390017819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650500C6-6D55-4897-BCD7-175390017819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650500C6-6D55-4897-BCD7-175390017819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650500C6-6D55-4897-BCD7-175390017819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8350CA-4C61-462F-80AF-0BA3984E85BD}
+	EndGlobalSection
+EndGlobal
